@@ -1,2 +1,1 @@
-# A Tour of Go
-[link](https://tour.golang.org/moretypes/27)
+# [A Tour of Go](https://tour.golang.org/moretypes/27)
